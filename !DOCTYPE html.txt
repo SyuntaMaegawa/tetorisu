@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>テトリスのミノ表示</title>
+  <style>
+    /* CSSをここに直接書く */
+  </style>
+</head>
+<body>
+  <canvas id="gridCanvas"></canvas>
+  <script src="script.js"></script> <!-- ここで外部JSを読み込む -->
+</body>
+</html>
